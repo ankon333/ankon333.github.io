@@ -49,10 +49,17 @@
 "landOwnerMobileNumber":"01713819051"
 },
 {
-    "landAmountInfo": "12.000 sho nichu",
-    "landAmountPriceInfo": "1555 Taka",
-    "landLocation": "Dhaka ",
-    "landOwnerName": "Halim ",
-    "landOwnerMobileNumber": "0155181612"
+"landAmountInfo":"12.000 sho nichu",
+"landAmountPriceInfo":"1555 Taka",
+"landLocation":"Dhaka ",
+"landOwnerName":"Halim ",
+"landOwnerMobileNumber":"0155181612"
+},
+{
+    "landAmountInfo": "20 Ekor High Land",
+    "landAmountPriceInfo": "100000 Taka",
+    "landLocation": "Jamalpur",
+    "landOwnerName": "আবুল কাশেম ",
+    "landOwnerMobileNumber": "01713819051"
 }
 ]
