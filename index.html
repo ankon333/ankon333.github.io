@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>Crop Cash</title>
+      <meta name="description" content="An interactive getting started guide for Agribusness.">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+      <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+      <style>
+         .mySlides {display:none;
+         }
+         .left {
+         float: left;
+         width: 50%;
+         padding: 5px;
+         border: 1px solid #4CAF50;
+         text-align: center;
+         align-content: center;
+         }
+         .row:after {
+         content: "";
+         display: table;
+         clear: both;
+         }
+         .right {
+         float: left;
+         width: 50%;
+         padding: 5px;
+         border: 1px solid #4CAF50;
+         text-align: center;
+         align-content: center;
+         }
+         body {
+         font-family: Arial;
+         color: dodgerblue;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="main">
+         <!-- main start -->
+         <div class="w3-sidebar w3-light-grey w3-bar-block" style="width:25%">
+            <!-- Sidebar start -->
+            <h3 class="w3-bar-item">Raw Data Menu</h3>
+            <dl>
+               <dt> <br> &emsp13; &emsp13; &emsp13; &emsp13; &emsp13;Login data</dt>
+               <dd>
+                  <ul type="cirle">
+                     <li><a href="https://raw.githubusercontent.com/Forlonsunny/Forlonsunny.github.io/master/login_info.json" target="_blank">See Login Raw Data</a></li>
+                  </ul>
+               </dd>
+               <dt><br> &emsp13; &emsp13; &emsp13; &emsp13; &emsp13;User Post data</dt>
+               <dd>
+                  <ul type="disc">
+                     <li><a href="https://raw.githubusercontent.com/Forlonsunny/Forlonsunny.github.io/master/product_info.json" target="_blank">See Product Raw Data</a></li>
+                  </ul>
+               </dd>
+               <dt><br> &emsp13; &emsp13; &emsp13; &emsp13; &emsp13;The Crop Cash App Link</dt>
+               <dd>
+                  <ul type="disc">
+                     <li><a href=" https://drive.google.com/drive/folders/1ODSCEvVK_mmSMBfcda-qmQXxyy_UwaR1?usp=sharing" target="_blank">click here to Dwonload and Install </a></li>
+                  </ul>
+               </dd>
+               <dt><br> &emsp13; &emsp13; &emsp13; &emsp13; &emsp13;The Crop Cash App Play Store Link</dt>
+               <dd>
+                  <ul type="disc">
+                     <li><a href="https://play.google.com/store/apps/dev?id=6126516962880825039" target="_blank">click here to Dwonload and Install </a></li>
+                  </ul>
+               </dd>
+            </dl>
+         </div>
+         <!-- Sidebar end -->
+         <div style="margin-left:25%" class="main coantainer">
+            <!-- Header start -->
+            <div class="w3-container w3-teal">
+               <h1 align="center">Crop Cash Android App </h1>
+               <h2 align="center">Welcome back to your Dashboard...This is your guide!</h2>
+            </div>
+            <!-- Header End -->
+            <div class="row">
+               <div class="left" >
+                  <!-- container-page-midile start -->
+                  <h4>App Video--Sign up and Login Example</h4>
+                  <br>
+                  <video style="width:40%" controls>
+                     <source src="gif/app.mp4" type="video/mp4">
+                  </video>
+               </div>
+               <div class="right">
+                  <h5>App Screenshot Slideshow--Sign up and Login Example</h5>
+                  <br>
+                  <img align="center" class="mySlides" src="gif/1.png" style="width:40%">
+                  <img align="center" class="mySlides" src="gif/2.png" style="width:40%">
+                  <img align="center" class="mySlides" src="gif/3.png" style="width:40%">
+                  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(-1)">&#10094;</button>
+                  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+               </div>
+            </div>
+            <div class="w3-container">
+               <h4>We present you “Crop-Cash” app, a comprehensive agricultural portal that serves as a one-stop shop for both farmers in outlying areas and agribusiness investors
+               </h4>
+            </div>
+            <!-- container-page-midile end -->
+            <!-- footer start -->
+            <footer class="w3-container w3-theme w3-margin-top">
+               <h6>Agricultural Advancement for Farmers and Investors Using Crop-Cash Application
+               </h6>
+               <p>All rights &copy;Crop Cash Android App</p>
+            </footer>
+            <!-- footer end -->
+         </div>
+      </div>
+      <!-- main end -->
+      <script>
+         var slideIndex = 1;
+         showDivs(slideIndex);
+         
+         function plusDivs(n) {
+           showDivs(slideIndex += n);
+         }
+         
+         function showDivs(n) {
+           var i;
+           var x = document.getElementsByClassName("mySlides");
+           if (n > x.length) {slideIndex = 1}
+           if (n < 1) {slideIndex = x.length}
+           for (i = 0; i < x.length; i++) {
+         	x[i].style.display = "none";  
+           }
+           x[slideIndex-1].style.display = "block";  
+         }
+      </script>
+   </body>
+</html>

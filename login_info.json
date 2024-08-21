@@ -1,0 +1,59 @@
+{
+"admin":[
+{
+"admin_id":"01321098500",
+"password":"01321098500",
+"Name":"Ankon",
+"Address":"Gajipur"
+},
+{
+"admin_id":"01713819046",
+"password":"01713819046",
+"Name":"Sunny",
+"Address":"Tangail"
+},
+{
+"admin_id":"112",
+"password":"112",
+"Name":"Shibbir",
+"Address":"Gajipur"
+}
+],
+"user":[
+{
+"user_id":"01713819040",
+"password":"01713819040",
+"Name":"আবু  তালেব",
+"Address":"নরসিংদী ",
+"role_type":"Farmers"
+},
+{
+"user_id":"01713819050",
+"password":"01713819050",
+"Name":"আব্দুর রাজ্জাক ",
+"Address":"কাওরানবাজার, ঢাকা",
+"role_type":"Buyers"
+},
+{
+"user_id":"01713819041",
+"password":"01713819041",
+"Name":"আবু  বক্কর",
+"Address":" মানিকগঞ্জ সদর ",
+"role_type":"Farmers"
+},
+{
+"user_id":"01713819051",
+"password":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"role_type":"Buyers"
+},
+{
+    "user_id": "0155181612",
+    "password": "1232",
+    "Name": "Halim ",
+    "Address": "sadarghat",
+    "role_type": "Farmers"
+}
+]
+}

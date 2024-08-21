@@ -1,0 +1,157 @@
+{
+"Farmers":[
+{
+"user_id":"01713819040",
+"Name":" আবু  তালেব ",
+"Address":" নরসিংদী ",
+"product_Name":"দেশি বেগুন",
+"product_info":"আজকের উত্তলনকৃত ১০০ কেজি দেশি বেগুন",
+"product_id":"101"
+},
+{
+"user_id":"01713819041",
+"Name":" আবু  বক্কর ",
+"Address":" মানিকগঞ্জ সদর ",
+"product_Name":"দেশি করলা",
+"product_info":"আজকের উত্তলনকৃত ২ মন দেশি করলা",
+"product_id":"102"
+},
+{
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি ঢেঁড়শ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 20 মন দেশি ঢেঁড়শ আছে",
+"product_id":"103"
+}
+,
+{
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি ঢেঁড়শ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 5 মন দেশি ঢেঁড়শ আছে",
+"product_id":"103"
+}
+,
+{
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি টমেটো",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 2 কেজি দেশি টমেটো আছে",
+"product_id":"104"
+}
+,
+{
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি টমেটো",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 856 মন দেশি টমেটো আছে",
+"product_id":"104"
+}
+,
+{
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি কাঁচা মরিচ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত Fresh 28 মন দেশি কাঁচা মরিচ আছে",
+"product_id":"105"
+}
+,
+{
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"দেশি কাঁচা মরিচ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 22 22 মন দেশি কাঁচা মরিচ আছে",
+"product_id":"105"
+}
+,
+{
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"Local Tomatoes ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 88 মন Local Tomatoes  আছে",
+"product_id":"106"
+}
+,
+{
+"user_id":"0155181612",
+"Name":"Halim ",
+"Address":"sadarghat",
+"product_Name":"Local Tomatoes ",
+"product_info":"আমর আছে আজকের উত্তলনকৃত 88 মন Local Tomatoes  আছে",
+"product_id":"106"
+}
+],
+"Buyers":[
+{
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি বেগুন",
+"product_info":"আমর আজকের উত্তলনকৃত 11111 কেজি দেশি বেগুন লাগবে",
+"product_id":"101"
+},
+{
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি করলা",
+"product_info":"আজকের উত্তলনকৃত 20 মন দেশি করলা লাগবে",
+"product_id":"102"
+},
+{
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি ঢেঁড়শ",
+"product_info":"উত্তলনকৃত 555 মন দেশি ঢেঁড়শ লাগবে",
+"product_id":"103"
+},
+{
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি করলা",
+"product_info":"আমর আজকের উত্তলনকৃত new 80000 কেজি দেশি করলা লাগবে",
+"product_id":"102"
+},
+{
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি টমেটো",
+"product_info":"আমর আজকের উত্তলনকৃত 55 মন দেশি টমেটো লাগবে",
+"product_id":"104"
+},
+{
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি কাঁচা মরিচ",
+"product_info":"আমর আজকের উত্তলনকৃত Fresh 2 মন দেশি কাঁচা মরিচ লাগবে",
+"product_id":"105"
+},
+{
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি কাঁচা মরিচ",
+"product_info":"আমর আজকের উত্তলনকৃত 222 মন দেশি কাঁচা মরিচ লাগবে",
+"product_id":"105"
+},
+{
+    "user_id": "01713819051",
+    "Name": "আবুল কাশেম ",
+    "Address": "সদরঘাট, ঢাকা",
+    "product_Name": "Local Tomatoes ",
+    "product_info": "আমর আজকের উত্তলনকৃত 555 মন Local Tomatoes  লাগবে",
+    "product_id": "106"
+}
+]
+}

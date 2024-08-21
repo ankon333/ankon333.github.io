@@ -1,0 +1,58 @@
+[
+{
+"landAmountInfo":"১০০ একর সমতল জমি",
+"landAmountPriceInfo":"10,000 Taka",
+"landLocation":"নরসিংদী, রায়পুরা",
+"landOwnerName":"মোহাম্মদ আশরাফুল আলম ",
+"landOwnerMobileNumber":"01983726288"
+},
+{
+"landAmountInfo":"55 High Land",
+"landAmountPriceInfo":"5555",
+"landLocation":"AaramNogor",
+"landOwnerName":"Halim ",
+"landOwnerMobileNumber":"0155181612"
+},
+{
+"landAmountInfo":"15 Ekor High Land",
+"landAmountPriceInfo":"5000",
+"landLocation":"Dhaka",
+"landOwnerName":"Halim ",
+"landOwnerMobileNumber":"0155181612"
+},
+{
+"landAmountInfo":"12 Ekor Uchu Jomi",
+"landAmountPriceInfo":"5552 Taka",
+"landLocation":"dhamrai",
+"landOwnerName":"Halim ",
+"landOwnerMobileNumber":"0155181612"
+},
+{
+"landAmountInfo":"1000 Shoraksho Nichu Jomi",
+"landAmountPriceInfo":"8000 Taka",
+"landLocation":"Tangail",
+"landOwnerName":"আবুল কাশেম ",
+"landOwnerMobileNumber":"01713819051"
+},
+{
+"landAmountInfo":"88 Ekor  Uchchu Jomi",
+"landAmountPriceInfo":"23344 Taka",
+"landLocation":"Nolua",
+"landOwnerName":"আবুল কাশেম ",
+"landOwnerMobileNumber":"01713819051"
+},
+{
+"landAmountInfo":"120 Shotankhso Nichu Jomi",
+"landAmountPriceInfo":"1200 Taka",
+"landLocation":"Delduar",
+"landOwnerName":"আবুল কাশেম ",
+"landOwnerMobileNumber":"01713819051"
+},
+{
+    "landAmountInfo": "12.000 sho nichu",
+    "landAmountPriceInfo": "1555 Taka",
+    "landLocation": "Dhaka ",
+    "landOwnerName": "Halim ",
+    "landOwnerMobileNumber": "0155181612"
+}
+]
