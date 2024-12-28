@@ -49,10 +49,17 @@
 "role_type":"Buyers"
 },
 {
-    "user_id": "0155181612",
-    "password": "1232",
-    "Name": "Halim ",
-    "Address": "sadarghat",
+"user_id":"0155181612",
+"password":"1232",
+"Name":"Halim ",
+"Address":"sadarghat",
+"role_type":"Farmers"
+},
+{
+    "user_id": "01551806661",
+    "password": "4790",
+    "Name": "Yasin Ankon",
+    "Address": "Gazipur ",
     "role_type": "Farmers"
 }
 ]
