@@ -87,6 +87,15 @@
 "product_info":"আমর আছে আজকের উত্তলনকৃত 88 মন Local Tomatoes  আছে",
 "product_id":"106"
 }
+,
+{
+    "user_id": "01551806661",
+    "Name": "Yasin Ankon",
+    "Address": "Gazipur ",
+    "product_Name": "দেশি বেগুন",
+    "product_info": "আমর আছে আজকের উত্তলনকৃত 100 কেজি দেশি বেগুন আছে",
+    "product_id": "101"
+}
 ],
 "Buyers":[
 {
@@ -154,12 +163,12 @@
 "product_id":"106"
 },
 {
-    "user_id": "01713819051",
-    "Name": "আবুল কাশেম ",
-    "Address": "সদরঘাট, ঢাকা",
-    "product_Name": "দেশি বেগুন",
-    "product_info": "আমর আজকের উত্তলনকৃত 22 কেজি দেশি বেগুন লাগবে",
-    "product_id": "101"
+"user_id":"01713819051",
+"Name":"আবুল কাশেম ",
+"Address":"সদরঘাট, ঢাকা",
+"product_Name":"দেশি বেগুন",
+"product_info":"আমর আজকের উত্তলনকৃত 22 কেজি দেশি বেগুন লাগবে",
+"product_id":"101"
 }
 ]
 }
